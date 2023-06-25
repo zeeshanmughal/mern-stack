@@ -1,0 +1,3 @@
+# dont want to include
+node_modules
+.env
